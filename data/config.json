@@ -1,5 +1,19 @@
 {
-   
+    "socialLinks": [
+        { "name": "GitHub", "url": "#", "icon": "fab fa-github" },
+        { "name": "LinkedIn", "url": "https://www.linkedin.com/in/misael-huarcaya-ccoicca-b4b2342b0/", "icon": "fab fa-linkedin" },
+        { "name": "Email", "url": "mailto:capu.misael.huarcaya@gmail.com", "icon": "fas fa-envelope" },
+        { 
+            "name": "Instagram", 
+            "url": "https://instagram.com/misaa.hc", 
+            "icon": "fab fa-instagram"  
+        },
+        { 
+            "name": "TikTok", 
+            "url": "https://tiktok.com/@poetasinluz", 
+            "icon": "fab fa-tiktok" 
+        }
+    ],
     "projects": [
         {
             "title": "MIMIC BOT",
