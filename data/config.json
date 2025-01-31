@@ -1,0 +1,27 @@
+{
+    "socialLinks": [
+        { "name": "GitHub", "url": "#", "icon": "fab fa-github" },
+        { "name": "LinkedIn", "url": "https://www.linkedin.com/in/misael-huarcaya-ccoicca-b4b2342b0/", "icon": "fab fa-linkedin" },
+        { "name": "Email", "url": "mailto:capu.misael.huarcaya@gmail.com", "icon": "fas fa-envelope" }
+    ],
+    "projects": [
+        {
+            "title": "MIMIC BOT",
+            "description": "Robot mesero autonomo para servicio a restaurantes, con funcionalidad de Inteligencia Artificial.",
+            "image": "project1.jpg",
+            "tags": ["Python", "OpenCV", "Mechanical design"]
+        },
+        {
+            "title": "Morph ARM",
+            "description": "Brazo robótico autonomo móvil para tareas de ensamblaje en el espacio exterior.",
+            "image": "project2.jpg",
+            "tags": ["Robotics", "Python", "Mechatronical design"]
+        },
+        {
+            "title": "Seeds For the Future - HUAWEI",
+            "description": "Parte del programa internacional de HUAWEI enfocado en enseñar tecnologias de 5G, Cloud e IA.",
+            "image": "project3.jpg",
+            "tags": ["IA", "Huawei-Cloud", "5G", "English"]
+        }
+    ]
+}
